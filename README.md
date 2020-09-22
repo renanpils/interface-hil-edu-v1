@@ -15,3 +15,10 @@ para um arduino
 -saiba qual porta COM está sendo utilizada
 
 -execute main.py
+
+
+### Dependências:
+- python 3.6 ou maior
+- pygame
+
+
